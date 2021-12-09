@@ -1,5 +1,5 @@
 # Basic-Cypress-Web-Automation
-In this project, I have automated a online shopping website, where the following operations were performed -- 
+In this project, I have automated an online shopping website, where the following operations were performed -- 
 - User Account Creation
 - Login with User Account
 - Access product from Product Categories
