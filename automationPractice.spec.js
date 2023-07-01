@@ -3,8 +3,8 @@ describe('Automation in Cypress', function()
 
     it('Automation in Cypress', function()
     {
-        var mail = "wasifgazi123@gmail.com"
-        var pass = "gazi12345"
+        var mail = "rayeed.sm@gmail.com"
+        var pass = "rayeed12345"
         
         cy.visit('http://automationpractice.com/index.php')
 
